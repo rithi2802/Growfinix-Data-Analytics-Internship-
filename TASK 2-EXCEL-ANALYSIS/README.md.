@@ -1,0 +1,8 @@
+Task 2 - Database Analysis using ExcelObjective: To analyze student performance dataset using Excel.
+Work Done:
+Cleaned the dataset - removed duplicates and fixed gender/class values
+Used COUNTIF formula to find attendance - Present Count = 21, Absent Count = 5. 
+Formula used =COUNTIF(range,"Present")Created Pivot Table to find average marks of Science, Maths, English for Class 10-A and 10-B
+Created Clustered Column Chart titled CLASS WISE SUBJECT PERFORMANCE to compare subject averagesInsight: Class 10-A and 10-B both performing around 74-78% average. 
+10-B is better in Science and English, 10-A is better in Maths.
+Tool Used: Microsoft Excel
