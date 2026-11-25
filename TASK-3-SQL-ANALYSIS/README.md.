@@ -1,0 +1,6 @@
+# Task 3: SQL Data Analysis
+Tools Used:MySQL Workbench, SQL (SELECT, WHERE, GROUP BY, ORDER BY, INNER JOIN)
+- *Key Insights:*
+    - Present students count is highest (20 students), followed by Absent (5) and Late (3).
+    - Class 10-A has the highest average scores across subjects (English avg 84.20).
+    - Successfully joined students table with class teachers using INNER JOIN
