@@ -1,0 +1,34 @@
+Student_ID,First_Name,Last_Name,Class,Gender,Maths_Score,Science_Score,English_Score,Exam_Date,Attendance_Status,Total_Score,Average_Score,Result
+STU001,Aarav,Sharma,10-A,Male,85,78,92,12-06-2026,Present,255,85,PASS
+STU002,Priya,Iyer,10-A,Female,91,88,95,12-06-2026,Present,274,91.33333333,PASS
+STU003,Rahul,Kumar,10-B,Male,67,76.88,72,12-06-2026,Absent,215.88,71.96,PASS
+STU004,Meera,Nair,10-A,Female,78,82,80,13-06-2026,Present,240,80,PASS
+STU005,Kavin,Raj,10-C,Male,55,61,58,14-06-2026,Present,174,58,FAIL
+STU006,Ananya,Rao,10-B,Female,76.03,94,96,14-06-2026,Present,266.03,88.67666667,PASS
+STU007,Arjun,Menon,10-C,Male,72,69,75,15-06-2026,Late,216,72,PASS
+STU008,Diya,Patel,10-A,Female,88,91,89,15-06-2026,Present,268,89.33333333,PASS
+STU009,Vikram,Singh,10-B,Male,43,50,81.03,16-06-2026,Absent,174.03,58.01,FAIL
+STU010,Sara,Khan,10-C,Female,96,93,98,16-06-2026,Present,287,95.66666667,PASS
+STU011,Nithin,Das,10-A,Male,61,64,60,17-06-2026,Present,185,61.66666667,PASS
+STU012,Ishita,Verma,10-B,Female,82,79,85,17-06-2026,Present,246,82,PASS
+STU013,Rohan,Pillai,10-C,Male,74,71,77,18-06-2026,Late,222,74,PASS
+STU014,Lavanya,Reddy,10-A,Female,89,87,90,18-06-2026,Present,266,88.66666667,PASS
+STU015,Adithya,Bose,10-B,Male,58,62,55,19-06-2026,Absent,175,58.33333333,FAIL
+STU016,Nila,Thomas,10-C,Female,93,95,94,19-06-2026,Present,282,94,PASS
+STU017,Yash,Gupta,10-A,Male,70,68,73,20-06-2026,Present,211,70.33333333,PASS
+STU018,Tara,S,10-B,Female,86,76.88,91,20-06-2026,Present,253.88,84.62666667,PASS
+STU019,Mohammed,Ali,10-C,Male,64,59,66,21-06-2026,Late,189,63,PASS
+STU020,Aadhya,Krishnan,10-A,Female,97,96,99,22-06-2026,Present,292,97.33333333,PASS
+STU021,Neil,Fernandes,10-B,Male,49,54,51,22-06-2026,Absent,154,51.33333333,FAIL
+STU022,Pooja,Shah,10-C,Female,77,81,79,23-06-2026,Present,237,79,PASS
+STU023,Sanjay,M,10-A,Male,68,72,70,23-06-2026,Present,210,70,PASS
+STU024,Riya,Chopra,10-B,Female,90,92,88,24-06-2026,Present,270,90,PASS
+STU025,Kabir,Joshi,10-C,Male,57,60,81.03,24-06-2026,Absent,198.03,66.01,PASS
+STU027,Rithu,Balan,10-B,Female,83,86,87,25-06-2026,Present,256,85.33333333,PASS
+STU028,Dev,Anand,10-C,Male,74, ,79,26-06-2026,Present,153,76.5,PASS
+STU029,Maya,S,10-A,Unknown,92,89,94,,Present,275,91.66666667,PASS
+STU030,Ishaan,Mukherjee,10-C,Male,81,76.88,84,27-06-2026,Present,241.88,80.62666667,PASS
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Present Count,21,,,
+,,,,,,,,Absent Count,5,,,

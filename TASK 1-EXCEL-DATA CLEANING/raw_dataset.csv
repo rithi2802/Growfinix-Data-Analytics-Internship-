@@ -1,0 +1,32 @@
+
+Student_ID,First_Name,Last_Name,Class,Gender,Maths_Score,Science_Score,English_Score,Exam_Date,Attendance_Status
+STU001,Aarav,Sharma,10-A,Male,85,78,92,2026-06-12,Present
+STU002,  priya,Iyer ,10-A,FEMALE,91,88,95,12/06/2026,present
+STU003,Rahul,Kumar,10-B,male,67,,72,Jun 13 2026,Absent
+STU004,Meera , Nair,10-A,Female,78,82,80,13-06-2026,PRESENT
+STU005,Kavin,Raj,10-C,Male,55,61,58,2026/06/14,Present
+STU006,Ananya,Rao,10-B,female,,94,96,14/06/26,present
+STU007,  arjun ,Menon,10-C,MALE,72,69,75,June 15 2026,Late
+STU008,Diya,Patel,10-A,Female,88,91,89,15-06-2026,Present
+STU009,Vikram,Singh,10-B,Male,43,50,,2026-06-16,absent
+STU010,Sara,Khan,10-C,Female,96,93,98,16/06/2026,Present
+STU011,Nithin,  Das ,10-A,Male,61,64,60,17 Jun 2026,present
+STU012,Ishita,Verma,10-B,FEMALE,82,79,85,17-06-26,Present
+STU013,Rohan,Pillai,10-C,Male,74,71,77,2026.06.18,Late
+STU014,Lavanya,Reddy,10-A,Female,89,87,90,18/06/26,Present
+STU015,Adithya,  Bose,10-B,male,58,62,55,June 19 2026,Absent
+STU016,  Nila,Thomas ,10-C,Female,93,95,94,19-06-2026,PRESENT
+STU017,Yash,Gupta,10-A,Male,70,68,73,2026/06/20,present
+STU018,Tara,  S,10-B,female,86,,91,20/06/2026,Present
+STU019,Mohammed,Ali,10-C,Male,64,59,66,21-06-2026,late
+STU020,Aadhya,Krishnan,10-A,Female,97,96,99,2026-06-22,Present
+STU021,Neil,Fernandes,10-B,Male,49,54,51,22/06/2026,Absent
+STU022,Pooja,Shah,10-C,FEMALE,77,81,79,Jun 23 2026,present
+STU023,Sanjay,M,10-A,Male,68,72,70,23-06-2026,Present
+STU024,Riya,Chopra,10-B,Female,90,92,88,2026/06/24,Present
+STU025,Kabir,Joshi,10-C,male,57,60,,24.06.2026,Absent
+STU026,Aarav,Sharma,10-A,Male,85,78,92,2026-06-12,Present
+STU027,  Rithu ,Balan,10-B,female,  83 ,86,  87,25/06/2026, present 
+STU028,Dev,  Anand,10-C,Male,74, ,79,June 26 2026,PRESENT
+STU029,Maya,S,10-A,,92,89,94,,Present
+STU030,  Ishaan ,Mukherjee,10-C,MALE,81,,  84 ,27/06/2026,present
